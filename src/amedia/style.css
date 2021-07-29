@@ -1,0 +1,32 @@
+
+#openFile{
+    -fx-background-image: url("../Images/openfile.jpg");
+    -fx-background-size: 20 30 ;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center; 
+    -fx-background-color: transparent;
+}
+
+#playButton{
+    -fx-background-image: url("../Images/play.png");
+    -fx-background-size: 20 30 ;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+#pauseButton{
+    -fx-background-image: url("../Images/pause-squared.png");
+    -fx-background-size: 20 30 ;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center; 
+    -fx-background-color: transparent;
+}
+
+#stopButton{
+    -fx-background-image: url("../Images/stop-squared.png");
+    -fx-background-size: 20 30 ;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center; 
+    -fx-background-color: transparent;
+}
